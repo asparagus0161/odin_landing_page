@@ -1,0 +1,24 @@
+body {
+    font-family: Roboto;
+    margin: 0px;    
+}
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 12px;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+.header {
+    display: flex;
+    background-color: #1F2937;
+    color: white;
+    flex: 1 1 auto;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.logo {
+    font-weight: bold;
+    font-size: 24px;
+    color: #F9FAF8;
+}
